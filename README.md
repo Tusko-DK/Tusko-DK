@@ -11,7 +11,7 @@
             Shell  :  Bash
             Terminal  :  Terminator
             CPU  :  I9
-            Alias  :  Plasmonix
+            Alias  :  Tusko-DK
             Infos  :  8yo English developer!
             Languages  :  Python, JS, C++
 
